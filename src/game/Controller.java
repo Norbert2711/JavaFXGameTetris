@@ -80,8 +80,8 @@ public class Controller {
 
             a.setX(XMAX / 2 + SIZE);
             b.setX(XMAX / 2 - SIZE);
-            b.setY(SIZE);
-            c.setX(XMAX / 2);
+            b.setY(SIZE);               //[][][]
+            c.setX(XMAX / 2);           //    []
             c.setY(SIZE);
             d.setX(XMAX / 2 + SIZE);
             d.setY(SIZE);
